@@ -87,7 +87,7 @@ export default {
 	width:60px;
 	height:60px;
 	bottom:40px;
-	right:40px;
+	right:60px;
 	background-color:#25d366;
 	color:#FFF;
 	border-radius:50px;
@@ -146,5 +146,8 @@ export default {
 .hidd2 {
   display: none !important;
 }
+}
+body {
+  overflow-x: hidden;
 }
 </style>
