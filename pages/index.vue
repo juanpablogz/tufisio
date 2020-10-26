@@ -146,8 +146,12 @@ export default {
 .hidd2 {
   display: none !important;
 }
+.float {
+  right:100px;
+}
 }
 body {
   overflow-x: hidden;
 }
+
 </style>
