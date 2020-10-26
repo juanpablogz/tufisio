@@ -147,7 +147,7 @@ export default {
   display: none !important;
 }
 .float {
-  right:100px;
+  right:80px;
 }
 }
 body {

@@ -1,7 +1,7 @@
 <template>
 <div>
     <div class="container mx-auto mt-8">
-        <div class="flex bg-gray-100">
+        <div class="lg:flex bg-gray-100 sm:initial">
             <div class="flex-1 text-gray-700 text-center bg-white px-4 py-2 m-2 rounded-r-lg">
                 <button class="bg-teal-400 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full h-8 w-8 flex items-center justify-center">1</button>
                 <h1>Nuestro paciente es primero</h1>
